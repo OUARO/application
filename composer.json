@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "classmap": [
+            "./core",
+            "./eonea/controllers",
+            "./eonea/repository"
+            ]
+    },
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "dompdf/dompdf": "^3.0",
+        "swiftmailer/swiftmailer": "6.0"
+    }
+}
